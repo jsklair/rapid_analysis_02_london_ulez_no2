@@ -1,0 +1,21 @@
+site_code,site_name,group,role,decision,reason
+HV1,Havering - Rainham,treated,primary,Retained,Passed all frozen coverage thresholds; long-running outer-London roadside site.
+HV3,Havering - Romford,treated,primary,Retained,Passed all frozen coverage thresholds; long-running outer-London roadside site.
+BY7,Bromley - Harwood Avenue,treated,sensitivity,Excluded from primary,Only 10 of 12 operational-year-1 months passed the frozen monthly coverage threshold.
+CR9,Croydon - Park Lane,treated,exploratory,Not used,"Automated API retrieval returned timestamps but no usable NO2 values despite official metadata showing NO2 monitoring history; treated as a technical retrieval issue, not an analytical coverage failure."
+LEIR,Leicester A594 Roadside,control,primary,Retained,Passed coverage gate; no charging Clean Air Zone or ULEZ during the study window identified.
+DCST,Doncaster A630 Cleveland Street,control,primary,Retained,Passed coverage gate; Cleveland Street bus gate predates the July 2021 baseline (started September 2018).
+BLAR,Blackburn Accrington Road,control,primary,Retained,Passed coverage gate; no major persistent corridor intervention during the study window identified in the screening.
+NWBV,Nottingham Western Boulevard,control,candidate,Excluded,"Major Beechdale/Western Boulevard walking, cycling and junction works overlapped 2023-2024."
+CHBR,Christchurch Barrack Road,control,candidate,Excluded,Barrack Road Railway Bridge works in June-July 2024 reduced the dual carriageway to one lane in each direction.
+COBR,Coventry Binley Road,control,candidate,Excluded,Binley Road cycleway and related traffic changes overlapped the baseline/anticipation period.
+CAM,Cambridge Roadside,control,candidate,Excluded,2022 NO2 data-quality failure prevented the site meeting the frozen baseline-coverage rule.
+LUTR,Luton A505 Roadside,control,candidate,Excluded,A505 congestion-management work overlapped the baseline/anticipation period.
+REA5,Reading London Road,control,candidate,Excluded,London Road bus-lane intervention overlapped operational year 2.
+SA33,Southampton A33,control,candidate,Excluded,Nearby A33/Parkside Avenue and Millbrook Road West bus-lane changes overlapped the study window.
+DESA,Derby St Alkmund's Way,control,candidate,Excluded,Material NO2 data loss from August 2023 into February 2024.
+PLYR,Plymouth Tavistock Road,control,candidate,Excluded,NO2 data loss from May to July 2023.
+EX,Exeter Roadside,control,candidate,Excluded,NO2 data loss from October to December 2023.
+CHS7,Chesterfield Roadside,control,candidate,Excluded,A619/Chatsworth Road cycle-lane and speed-limit changes overlapped the study window.
+LEAR,Leamington Spa Rugby Road,control,candidate,Excluded,"2022 NO2 data capture was 76.8%, too marginal for the frozen phase-specific gate."
+CARM,Carlisle Morton A595,control,candidate,Excluded,"Monitoring began in October 2021, too late for the frozen baseline requirement."

@@ -1,0 +1,2 @@
+# Data snapshots are evidence, not project source code.
+data/**/*.csv -linguist-detectable

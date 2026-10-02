@@ -1,0 +1,7 @@
+site_code,site_name,group,valid_months_overall,valid_baseline,valid_anticipation,valid_year1,valid_year2,retained_by_coverage_rule
+BLAR,Blackburn Accrington Road,control,47,16,8,12,11,True
+DCST,Doncaster A630 Cleveland Street,control,49,17,8,12,12,True
+LEIR,Leicester A594 Roadside,control,47,17,7,12,11,True
+BY7,Bromley - Harwood Avenue,treated,48,18,8,10,12,False
+HV1,Havering - Rainham,treated,50,18,8,12,12,True
+HV3,Havering - Romford,treated,50,18,8,12,12,True
